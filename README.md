@@ -434,3 +434,25 @@ Todos los días a las **20:00 h**, el workflow:
 ## 📄 Licencia
 
 Este proyecto puede adaptarse libremente para otras cafeterías o negocios de venta de productos por catálogo vía Telegram.
+---
+
+## EXAMEN
+
+<img width="3628" height="1714" alt="Captura desde 2026-07-30 11-12-04" src="https://github.com/user-attachments/assets/716ec516-0d07-4403-bfe0-b62a3153263a" />
+
+<img width="3628" height="1714" alt="Captura desde 2026-07-30 11-12-16" src="https://github.com/user-attachments/assets/e9e10724-4b8b-466f-9e2f-e353313716b7" />
+<img width="3628" height="1714" alt="Captura desde 2026-07-30 11-12-27" src="https://github.com/user-attachments/assets/a8eeda08-3e3f-43ef-9e55-01a09127ee97" />
+<img width="3628" height="1714" alt="Captura desde 2026-07-30 11-12-46" src="https://github.com/user-attachments/assets/216b11e1-0fc2-4381-8fab-9cc431f167d1" />
+<img width="3628" height="1714" alt="Captura desde 2026-07-30 11-13-07" src="https://github.com/user-attachments/assets/9e4737fc-3101-46a5-bb1b-7787d58e7fb5" />
+<img width="3628" height="1714" alt="Captura desde 2026-07-30 11-14-12" src="https://github.com/user-attachments/assets/7d322c6a-b95f-4174-a94e-7c3996bb93e5" />
+<img width="2997" height="1340" alt="Captura desde 2026-07-30 11-15-23" src="https://github.com/user-attachments/assets/472fb055-1ca8-4e73-848a-b3b2d8696a1e" />
+<img width="2997" height="1340" alt="Captura desde 2026-07-30 11-15-46" src="https://github.com/user-attachments/assets/bd4c70a9-91eb-42e0-8042-f60a7ef7cc24" />
+
+
+
+
+
+
+
+
+
